@@ -1,0 +1,6 @@
+---
+- name: Provision Image Dinivas Vault to build
+  hosts: packer-dinivas-vault
+  become: true
+  roles:
+    - role: brianshumate.vault

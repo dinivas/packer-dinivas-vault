@@ -1,0 +1,7 @@
+---
+
+- src: geerlingguy.repo-epel
+- src: cloudalchemy.node-exporter
+- src: dinivas.consul
+- src: griggheo.consul-template
+- src: brianshumate.vault
